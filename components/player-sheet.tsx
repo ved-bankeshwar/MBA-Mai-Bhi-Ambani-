@@ -1,6 +1,8 @@
 "use client"
 
 import { useMemo, useState, useSyncExternalStore, type FormEvent } from "react"
+import { Badge } from "@/components/ui/badge"
+import { PageIntro } from "@/components/page-intro"
 import { pageShell, SiteHeader } from "@/components/site-header"
 import {
   AlertDialog,
@@ -194,15 +196,10 @@ function ProfessionPicker({
 }) {
   return (
     <section className="flex flex-col gap-4 sm:gap-5 md:gap-6">
-      <div>
-        <h1 className="text-2xl font-semibold tracking-tight sm:text-3xl md:text-4xl lg:text-5xl">
-          Your profession
-        </h1>
-        <p className="mt-2 max-w-2xl text-sm text-muted-foreground sm:text-base">
-          Pick the profession the dealer drew, then lock it. The numbers stay
-          on the card. You copy them onto your sheet yourself.
-        </p>
-      </div>
+      <PageIntro kicker="Player" title="Your profession">
+        Tap the profession the dealer drew, then lock it. Copy the numbers onto
+        your sheet yourself.
+      </PageIntro>
       <RadioGroup
         value={chosenId ?? ""}
         onValueChange={(value) => onChoose(value)}
@@ -232,7 +229,7 @@ function ProfessionPicker({
         <Button
           type="button"
           size="lg"
-          className="h-auto w-full sm:w-auto sm:min-w-48 md:w-full lg:w-auto"
+          className="h-11 w-full sm:h-10 lg:w-auto lg:min-w-48"
           disabled={!chosenId}
           onClick={() => onOpenChange(true)}
         >
@@ -282,10 +279,8 @@ function LockedSheet({
     <div className="grid grid-cols-1 gap-4 sm:gap-5 md:gap-6 lg:grid-cols-[18rem_minmax(0,1fr)] lg:items-start xl:grid-cols-[22rem_minmax(0,1fr)] xl:gap-8 2xl:grid-cols-[24rem_minmax(0,1fr)] 2xl:gap-10">
       <aside className="flex flex-col gap-3 sm:gap-4">
         <div>
-          <p className="text-xs font-medium text-muted-foreground sm:text-sm">
-            Locked profession
-          </p>
-          <h1 className="text-2xl font-semibold tracking-tight sm:text-3xl md:text-4xl">
+          <Badge variant="secondary">Locked profession</Badge>
+          <h1 className="mt-2 text-2xl font-semibold tracking-tight sm:text-3xl md:text-4xl">
             {professionTitle}
           </h1>
         </div>
@@ -425,35 +420,35 @@ function Ledger({
       </CardHeader>
       <CardContent className="min-w-0">
         <form onSubmit={submit} className="flex min-w-0 flex-col gap-2">
-          <div className="grid min-w-0 grid-cols-1 gap-2 sm:grid-cols-2">
+          <div className="grid min-w-0 grid-cols-1 gap-3 sm:grid-cols-2">
             <div className="min-w-0">
-              <Label htmlFor={`${title}-name`} className="sr-only">
-                {title} name
+              <Label htmlFor={`${title}-name`} className="mb-1 text-xs sm:text-sm">
+                Name
               </Label>
               <Input
                 id={`${title}-name`}
                 value={name}
                 onChange={(event) => setName(event.target.value)}
-                placeholder="Name"
-                className="w-full min-w-0"
+                placeholder="Salary"
+                className="h-11 w-full min-w-0 sm:h-8"
               />
             </div>
             <div className="min-w-0">
-              <Label htmlFor={`${title}-amount`} className="sr-only">
-                {title} amount
+              <Label htmlFor={`${title}-amount`} className="mb-1 text-xs sm:text-sm">
+                Amount
               </Label>
               <Input
                 id={`${title}-amount`}
                 inputMode="decimal"
                 value={amount}
                 onChange={(event) => setAmount(event.target.value)}
-                placeholder="Amount"
-                className="w-full min-w-0"
+                placeholder="25000"
+                className="h-11 w-full min-w-0 sm:h-8"
               />
             </div>
           </div>
-          <Button type="submit" className="w-full">
-            Add
+          <Button type="submit" className="h-11 w-full sm:h-8">
+            Add row
           </Button>
         </form>
         {error ? (
@@ -475,7 +470,7 @@ function Ledger({
             {items.length === 0 ? (
               <TableRow>
                 <TableCell colSpan={3} className="text-muted-foreground">
-                  Nothing here yet.
+                  No rows yet. Add one, then type your own total.
                 </TableCell>
               </TableRow>
             ) : (
@@ -511,8 +506,8 @@ function Ledger({
                   inputMode="decimal"
                   value={total}
                   onChange={(event) => onTotal(event.target.value)}
-                  placeholder="Your total"
-                  className="w-full min-w-0 text-right"
+                  placeholder="Type your total"
+                  className="h-11 w-full min-w-0 text-right sm:h-8"
                 />
               </TableCell>
               <TableCell />

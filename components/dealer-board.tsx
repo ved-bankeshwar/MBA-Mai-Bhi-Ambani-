@@ -1,6 +1,17 @@
 "use client"
 
-import { useState } from "react"
+import { useRef, useState } from "react"
+import {
+  Briefcase,
+  House,
+  IdCard,
+  Sparkles,
+  Store,
+  TrendingUp,
+  Wallet,
+  type LucideIcon,
+} from "lucide-react"
+import { PageIntro } from "@/components/page-intro"
 import { pageShell, SiteHeader } from "@/components/site-header"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
@@ -37,24 +48,47 @@ const legend = [
 ]
 
 const deckButtonClass =
-  "h-auto min-h-14 w-full px-3 py-4 text-sm whitespace-normal sm:min-h-16 sm:text-base md:min-h-20 md:text-lg lg:min-h-16 xl:min-h-20 2xl:min-h-24"
+  "h-auto min-h-14 w-full flex-col gap-1 px-3 py-4 text-sm whitespace-normal sm:min-h-16 sm:text-base md:min-h-20 md:text-lg lg:min-h-16 xl:min-h-20 2xl:min-h-24"
+
+const deckIcons: Record<DeckId, LucideIcon> = {
+  profession: IdCard,
+  stocks: TrendingUp,
+  realty: House,
+  finance: Wallet,
+  business: Briefcase,
+  market: Store,
+  doodad: Sparkles,
+}
 
 export function DealerBoard() {
   const { decks } = useDecks()
+  const cardRef = useRef<HTMLDivElement>(null)
   const [active, setActive] = useState<DeckId | null>(null)
   const [card, setCard] = useState<PresentedCard | null>(null)
 
   function draw(deck: DeckId) {
     setActive(deck)
     setCard(drawCard(decks[deck]))
+    window.requestAnimationFrame(() => {
+      if (window.innerWidth < 1024) {
+        cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" })
+      }
+    })
   }
 
   return (
     <div className="min-h-full">
       <SiteHeader eyebrow="Dealer" />
       <main className={pageShell}>
-        <div className="grid grid-cols-1 gap-4 sm:gap-5 md:gap-6 lg:grid-cols-2 lg:items-start xl:gap-8 2xl:gap-10">
-          <div className="order-2 flex flex-col gap-4 sm:gap-5 lg:order-1">
+        <PageIntro kicker="Dealer" title="Draw a card">
+          Tap a pile, then read the card aloud. The card sits above the buttons
+          on a phone and beside them on a larger screen.
+        </PageIntro>
+        <div className="mt-6 grid grid-cols-1 gap-4 sm:mt-8 sm:gap-5 md:gap-6 lg:mt-10 lg:grid-cols-2 lg:items-start xl:gap-8 2xl:gap-10">
+          <div
+            ref={cardRef}
+            className={`scroll-mt-28 flex flex-col gap-4 sm:gap-5 lg:order-1 ${card ? "order-1" : "order-2"}`}
+          >
             <Card aria-live="polite">
               {card ? (
                 <>
@@ -117,7 +151,12 @@ export function DealerBoard() {
             </div>
           </div>
 
-          <div className="order-1 flex flex-col gap-2 sm:gap-3 md:gap-4 lg:order-2 lg:gap-3 xl:gap-4 2xl:gap-5">
+          <div
+            className={`flex flex-col gap-2 sm:gap-3 md:gap-4 lg:order-2 lg:gap-3 xl:gap-4 2xl:gap-5 ${card ? "order-2" : "order-1"}`}
+          >
+            <p className="text-sm font-medium text-muted-foreground sm:text-base">
+              Tap one pile
+            </p>
             <Button
               type="button"
               size="lg"
@@ -125,6 +164,7 @@ export function DealerBoard() {
               className={deckButtonClass}
               onClick={() => draw("profession")}
             >
+              <IdCard />
               Profession
             </Button>
             <div className="grid grid-cols-2 grid-rows-4 gap-2 sm:gap-3 md:gap-4 lg:gap-3 xl:gap-4 2xl:gap-5">
@@ -183,6 +223,7 @@ function DeckButton({
   className: string
   onDraw: (deck: DeckId) => void
 }) {
+  const Icon = deckIcons[deck]
   return (
     <Button
       type="button"
@@ -191,6 +232,7 @@ function DeckButton({
       className={`${className} ${deckButtonClass}`}
       onClick={() => onDraw(deck)}
     >
+      <Icon />
       {deckLabels[deck]}
     </Button>
   )

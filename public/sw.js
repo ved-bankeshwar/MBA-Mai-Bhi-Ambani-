@@ -1,4 +1,4 @@
-const CACHE = "mba-shell-v1"
+const CACHE = "mba-shell-v3"
 const PAGES = ["/", "/player", "/dealer", "/download"]
 
 async function remember(cache, request, response) {

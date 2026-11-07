@@ -1,6 +1,8 @@
 "use client"
 
 import { useEffect, useState } from "react"
+import { Download } from "lucide-react"
+import { PageIntro } from "@/components/page-intro"
 import { pageShell, SiteHeader } from "@/components/site-header"
 import { Alert, AlertDescription } from "@/components/ui/alert"
 import { Button } from "@/components/ui/button"
@@ -77,16 +79,11 @@ export function DownloadPanel() {
     <div className="min-h-full">
       <SiteHeader eyebrow="Download" />
       <main className={`${pageShell} flex flex-col gap-4 sm:gap-5 md:gap-6`}>
-        <div>
-          <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl md:text-5xl lg:text-6xl">
-            Download MBA
-          </h1>
-          <p className="mt-3 max-w-2xl text-sm text-muted-foreground sm:text-base md:text-lg">
-            Install the game on this phone. The card files are copied into this
-            device, and the app opens again without an internet connection.
-          </p>
-        </div>
-        <div className="grid grid-cols-1 gap-3 sm:gap-4 lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] xl:gap-6">
+        <PageIntro kicker="Download" title="Keep MBA on this phone">
+          Install the game once while you are online. The card files are saved
+          here, and the app opens again with no connection.
+        </PageIntro>
+        <div className="mt-6 grid grid-cols-1 gap-3 sm:mt-8 sm:gap-4 md:mt-10 lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] xl:gap-6">
           <Card>
             <CardHeader>
               <CardTitle className="text-xl sm:text-2xl">Install</CardTitle>
@@ -100,9 +97,10 @@ export function DownloadPanel() {
               <Button
                 type="button"
                 size="lg"
-                className="h-auto w-full sm:w-auto sm:min-w-48"
+                className="h-11 w-full sm:h-10 sm:w-auto sm:min-w-48"
                 onClick={install}
               >
+                <Download />
                 {installed ? "Save the card files again" : "Install MBA"}
               </Button>
               {ios ? (
@@ -121,6 +119,11 @@ export function DownloadPanel() {
                   </AlertDescription>
                 </Alert>
               ) : null}
+              <ol className="grid gap-2 text-sm text-muted-foreground sm:text-base">
+                <li>1. Tap Install MBA.</li>
+                <li>2. The card files save on this phone.</li>
+                <li>3. Open MBA from the home screen, online or offline.</li>
+              </ol>
             </CardContent>
           </Card>
           <Card>
