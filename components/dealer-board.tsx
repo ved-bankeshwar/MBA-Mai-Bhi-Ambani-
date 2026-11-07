@@ -20,10 +20,10 @@ import {
 } from "@/components/ui/table"
 import {
   deckLabels,
-  decks,
   drawCard,
   type DeckId,
 } from "@/lib/cards"
+import { useDecks } from "@/lib/deck-store"
 import type { PresentedCard } from "@/lib/types"
 
 const legend = [
@@ -40,6 +40,7 @@ const deckButtonClass =
   "h-auto min-h-14 w-full px-3 py-4 text-sm whitespace-normal sm:min-h-16 sm:text-base md:min-h-20 md:text-lg lg:min-h-16 xl:min-h-20 2xl:min-h-24"
 
 export function DealerBoard() {
+  const { decks } = useDecks()
   const [active, setActive] = useState<DeckId | null>(null)
   const [card, setCard] = useState<PresentedCard | null>(null)
 

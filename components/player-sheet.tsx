@@ -40,7 +40,8 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
-import { decks, professionById } from "@/lib/cards"
+import { professionById } from "@/lib/cards"
+import { useDecks } from "@/lib/deck-store"
 import { formatAmount, parseAmount } from "@/lib/money"
 import {
   clearPlayer,
@@ -102,8 +103,9 @@ export function PlayerSheet() {
     }))
   }
 
-  const profession = professionById(state.professionId)
-  const chosen = professionById(chosenId)
+  const { decks } = useDecks()
+  const profession = professionById(decks, state.professionId)
+  const chosen = professionById(decks, chosenId)
 
   return (
     <div className="min-h-full">
@@ -165,6 +167,7 @@ export function PlayerSheet() {
             onOpenChange={setLockOpen}
             onChoose={setChosenId}
             onLock={lockProfession}
+            professions={decks.profession}
           />
         )}
       </main>
@@ -179,6 +182,7 @@ function ProfessionPicker({
   onOpenChange,
   onChoose,
   onLock,
+  professions,
 }: {
   chosenId: string | null
   chosenTitle: string
@@ -186,6 +190,7 @@ function ProfessionPicker({
   onOpenChange: (open: boolean) => void
   onChoose: (id: string) => void
   onLock: () => void
+  professions: { id: string; title: string }[]
 }) {
   return (
     <section className="flex flex-col gap-4 sm:gap-5 md:gap-6">
@@ -203,7 +208,7 @@ function ProfessionPicker({
         onValueChange={(value) => onChoose(value)}
         className="grid grid-cols-1 gap-3 sm:grid-cols-2 md:gap-4 lg:grid-cols-3 xl:grid-cols-4 2xl:gap-5"
       >
-        {decks.profession.map((card) => {
+        {professions.map((card) => {
           const selected = chosenId === card.id
           return (
             <Label key={card.id} htmlFor={card.id} className="h-full">

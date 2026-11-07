@@ -47,6 +47,19 @@ export default function HomePage() {
             </CardHeader>
           </Card>
         </Link>
+        <Link href="/download" className="block h-full md:col-span-2">
+          <Card className="h-full">
+            <CardHeader>
+              <CardTitle className="text-xl sm:text-2xl md:text-3xl">
+                Download
+              </CardTitle>
+              <CardDescription className="text-sm sm:text-base">
+                Install MBA on this phone and keep the card files for offline
+                play.
+              </CardDescription>
+            </CardHeader>
+          </Card>
+        </Link>
       </div>
       <p className="mt-6 text-xs text-muted-foreground sm:mt-8 sm:text-sm md:text-base">
         Players are not connected to the dealer yet. Each phone keeps its own

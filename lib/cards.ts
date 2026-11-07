@@ -29,9 +29,11 @@ export const deckLabels = {
 
 export type DeckId = keyof typeof decks
 
-export function professionById(id: string | null) {
+export type Decks = typeof decks
+
+export function professionById(source: Decks, id: string | null) {
   if (!id) return null
-  return decks.profession.find((card) => card.id === id) ?? null
+  return source.profession.find((card) => card.id === id) ?? null
 }
 
 export function presentCard(card: GameCard): PresentedCard {
