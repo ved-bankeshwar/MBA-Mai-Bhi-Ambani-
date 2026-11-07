@@ -5,6 +5,7 @@ import { decks as bundledDecks, type Decks } from "@/lib/cards"
 import type { GameCard } from "@/lib/types"
 
 export const DECKS_KEY = "mba-decks-v1"
+const INSTALLED_KEY = "mba-installed"
 
 const deckKeys = [
   "profession",
@@ -74,6 +75,28 @@ export function decksAreLocal() {
   } catch {
     return false
   }
+}
+
+export function markAppInstalled() {
+  localStorage.setItem(INSTALLED_KEY, "1")
+  emit()
+}
+
+function installedSnapshot() {
+  try {
+    return localStorage.getItem(INSTALLED_KEY) === "1" ? "1" : "0"
+  } catch {
+    return "0"
+  }
+}
+
+export function useAppInstalled() {
+  const value = useSyncExternalStore(
+    subscribeDecks,
+    installedSnapshot,
+    () => "0",
+  )
+  return value === "1"
 }
 
 export function installLocalDecks(force = false) {

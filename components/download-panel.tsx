@@ -1,11 +1,11 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { Download } from "lucide-react"
+import { Download, FileDown, RefreshCw } from "lucide-react"
 import { PageIntro } from "@/components/page-intro"
 import { pageShell, SiteHeader } from "@/components/site-header"
 import { Alert, AlertDescription } from "@/components/ui/alert"
-import { Button } from "@/components/ui/button"
+import { Button, buttonVariants } from "@/components/ui/button"
 import {
   Card,
   CardContent,
@@ -14,7 +14,7 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { deckLabels, type DeckId } from "@/lib/cards"
-import { installLocalDecks, useDecks } from "@/lib/deck-store"
+import { installLocalDecks, markAppInstalled, useAppInstalled, useDecks } from "@/lib/deck-store"
 
 type InstallPrompt = Event & {
   prompt: () => Promise<void>
@@ -33,27 +33,28 @@ const order: DeckId[] = [
 
 export function DownloadPanel() {
   const { decks, local } = useDecks()
+  const installed = useAppInstalled()
   const [prompt, setPrompt] = useState<InstallPrompt | null>(null)
-  const [installed, setInstalled] = useState(false)
+  const [synced, setSynced] = useState(false)
   const [ios, setIos] = useState(false)
 
   useEffect(() => {
     installLocalDecks(false)
     const browser = navigator as Navigator & { standalone?: boolean }
-    setInstalled(
+    const standalone =
       window.matchMedia("(display-mode: standalone)").matches ||
-        browser.standalone === true,
-    )
+      browser.standalone === true
+    if (standalone) markAppInstalled()
     const apple = /iphone|ipad|ipod/i.test(navigator.userAgent)
-    setIos(apple && browser.standalone !== true)
+    setIos(apple && !standalone)
 
     const onPrompt = (event: Event) => {
       event.preventDefault()
       setPrompt(event as InstallPrompt)
     }
     const onInstalled = () => {
+      markAppInstalled()
       installLocalDecks(true)
-      setInstalled(true)
       setPrompt(null)
     }
     window.addEventListener("beforeinstallprompt", onPrompt)
@@ -69,41 +70,83 @@ export function DownloadPanel() {
     if (!prompt) return
     await prompt.prompt()
     const choice = await prompt.userChoice
-    if (choice.outcome === "accepted") setInstalled(true)
+    if (choice.outcome === "accepted") markAppInstalled()
     setPrompt(null)
+  }
+
+  function syncCards() {
+    installLocalDecks(true)
+    setSynced(true)
   }
 
   const total = order.reduce((sum, key) => sum + decks[key].length, 0)
 
   return (
     <div className="min-h-full">
-      <SiteHeader eyebrow="Download" />
+      <SiteHeader eyebrow={installed ? "Sync" : "Download"} />
       <main className={`${pageShell} flex flex-col gap-4 sm:gap-5 md:gap-6`}>
-        <PageIntro kicker="Download" title="Keep MBA on this phone">
-          Install the game once while you are online. The card files are saved
-          here, and the app opens again with no connection.
+        <PageIntro
+          kicker={installed ? "Sync" : "Download"}
+          title={installed ? "Update the cards" : "Keep MBA on this phone"}
+        >
+          {installed
+            ? "MBA is on this phone. Sync copies the latest card files into this device. The PDF saves to your downloads."
+            : "Install the game once while you are online. The card files are saved here, and the app opens again with no connection."}
         </PageIntro>
         <div className="mt-6 grid grid-cols-1 gap-3 sm:mt-8 sm:gap-4 md:mt-10 lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] xl:gap-6">
           <Card>
             <CardHeader>
-              <CardTitle className="text-xl sm:text-2xl">Install</CardTitle>
+              <CardTitle className="text-xl sm:text-2xl">
+                {installed ? "Sync" : "Install"}
+              </CardTitle>
               <CardDescription>
                 {installed
-                  ? "MBA is already installed on this device."
+                  ? "Bring the newest card files onto this phone."
                   : "Use the button in Chrome or Edge. On iPhone, add this page to the Home Screen."}
               </CardDescription>
             </CardHeader>
             <CardContent className="flex flex-col gap-3">
-              <Button
-                type="button"
-                size="lg"
-                className="h-11 w-full sm:h-10 sm:w-auto sm:min-w-48"
-                onClick={install}
+              {installed ? (
+                <Button
+                  type="button"
+                  size="lg"
+                  className="h-11 w-full sm:h-10 sm:w-auto sm:min-w-48"
+                  onClick={syncCards}
+                >
+                  <RefreshCw />
+                  Sync cards
+                </Button>
+              ) : (
+                <Button
+                  type="button"
+                  size="lg"
+                  className="h-11 w-full sm:h-10 sm:w-auto sm:min-w-48"
+                  onClick={install}
+                >
+                  <Download />
+                  Install MBA
+                </Button>
+              )}
+              <a
+                href="/MBA_download.pdf"
+                download="MBA_download.pdf"
+                className={buttonVariants({
+                  variant: "outline",
+                  size: "lg",
+                  className: "h-11 w-full sm:h-10 sm:w-auto sm:min-w-48",
+                })}
               >
-                <Download />
-                {installed ? "Save the card files again" : "Install MBA"}
-              </Button>
-              {ios ? (
+                <FileDown />
+                Download PDF
+              </a>
+              {synced ? (
+                <Alert>
+                  <AlertDescription>
+                    The card files on this phone are up to date.
+                  </AlertDescription>
+                </Alert>
+              ) : null}
+              {ios && !installed ? (
                 <Alert>
                   <AlertDescription>
                     In Safari, tap Share, then Add to Home Screen. Open MBA
@@ -119,11 +162,13 @@ export function DownloadPanel() {
                   </AlertDescription>
                 </Alert>
               ) : null}
-              <ol className="grid gap-2 text-sm text-muted-foreground sm:text-base">
-                <li>1. Tap Install MBA.</li>
-                <li>2. The card files save on this phone.</li>
-                <li>3. Open MBA from the home screen, online or offline.</li>
-              </ol>
+              {installed ? null : (
+                <ol className="grid gap-2 text-sm text-muted-foreground sm:text-base">
+                  <li>1. Tap Install MBA.</li>
+                  <li>2. The card files save on this phone.</li>
+                  <li>3. Open MBA from the home screen, online or offline.</li>
+                </ol>
+              )}
             </CardContent>
           </Card>
           <Card>

@@ -1,5 +1,6 @@
 import Link from "next/link"
-import { Download, Spade, UserRound, type LucideIcon } from "lucide-react"
+import { Spade, UserRound, type LucideIcon } from "lucide-react"
+import { HomeSetup } from "@/components/home-setup"
 import { PageIntro } from "@/components/page-intro"
 import { pageShell, SiteHeader } from "@/components/site-header"
 import {
@@ -14,7 +15,6 @@ const choices: {
   title: string
   description: string
   icon: LucideIcon
-  className?: string
 }[] = [
   {
     href: "/player",
@@ -28,14 +28,6 @@ const choices: {
     title: "Dealer",
     description: "Draw a profession, a deal, a market card, or a doodad.",
     icon: Spade,
-  },
-  {
-    href: "/download",
-    title: "Download",
-    description:
-      "Install MBA and keep every card file on this device for offline play.",
-    icon: Download,
-    className: "md:col-span-2 lg:col-span-1",
   },
 ]
 
@@ -55,7 +47,7 @@ export default function HomePage() {
             <Link
               key={choice.href}
               href={choice.href}
-              className={`block h-full rounded-xl focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring ${choice.className ?? ""}`}
+              className="block h-full rounded-xl focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
             >
               <Card className="h-full">
                 <CardHeader className="h-full">
@@ -74,6 +66,7 @@ export default function HomePage() {
             </Link>
           )
         })}
+        <HomeSetup />
       </div>
       <p className="mt-6 max-w-3xl text-xs text-muted-foreground sm:mt-8 sm:text-sm md:text-base">
         Players are not connected to the dealer yet. Each phone keeps its own

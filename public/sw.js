@@ -1,4 +1,4 @@
-const CACHE = "mba-shell-v3"
+const CACHE = "mba-shell-v4"
 const PAGES = ["/", "/player", "/dealer", "/download"]
 
 async function remember(cache, request, response) {
@@ -44,7 +44,7 @@ self.addEventListener("install", (event) => {
         }),
       )
       await Promise.all(
-        ["/icon-192.png", "/icon-512.png", "/apple-touch-icon.png", "/manifest.webmanifest"].map(
+        ["/icon-192.png", "/icon-512.png", "/apple-touch-icon.png", "/manifest.webmanifest", "/MBA_download.pdf"].map(
           async (url) => {
             try {
               const response = await withTimeout(url)
