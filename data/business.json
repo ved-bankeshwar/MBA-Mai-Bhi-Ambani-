@@ -1,0 +1,3290 @@
+[
+  {
+    "id": "business-a-transport-truck",
+    "title": "a Transport Truck",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "51,000 ~ 62,300"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "56,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "10,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Transport Truck costing 1,600,000 and 20% down payment.",
+          "Your income will be 56,000 for 10,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "63,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "12,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Transport Truck costing 1,800,000 and 20% down payment.",
+          "Your income will be 63,000 for 12,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,900,000"
+          },
+          {
+            "label": "Income",
+            "value": "66,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "12,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Transport Truck costing 1,900,000 and 20% down payment.",
+          "Your income will be 66,500 for 12,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,100,000"
+          },
+          {
+            "label": "Income",
+            "value": "73,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Transport Truck costing 2,100,000 and 20% down payment.",
+          "Your income will be 73,500 for 14,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "77,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Transport Truck costing 2,200,000 and 20% down payment.",
+          "Your income will be 77,000 for 14,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "84,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "16,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Transport Truck costing 2,400,000 and 20% down payment.",
+          "Your income will be 84,000 for 16,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-charter-aeroplane",
+    "title": "a Charter Aeroplane",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "10%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "52,900 ~ 62,100"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "12,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "218,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "170,100"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Charter Aeroplane costing 12,600,000 and 10% down payment.",
+          "Your income will be 218,400 for 170,100 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "13,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "239,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "186,300"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Charter Aeroplane costing 13,800,000 and 10% down payment.",
+          "Your income will be 239,200 for 186,300 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "14,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "249,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "194,400"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Charter Aeroplane costing 14,400,000 and 10% down payment.",
+          "Your income will be 249,600 for 194,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "15,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "270,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "210,600"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Charter Aeroplane costing 15,600,000 and 10% down payment.",
+          "Your income will be 270,400 for 210,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "16,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "280,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "218,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Charter Aeroplane costing 16,200,000 and 10% down payment.",
+          "Your income will be 280,800 for 218,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "17,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "301,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "234,900"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Charter Aeroplane costing 17,400,000 and 10% down payment.",
+          "Your income will be 301,600 for 234,900 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-medical-store-in-the-neighbourhood",
+    "title": "a Medical Store in the neighbourhood",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "30%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "8,000 ~ 13,300"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "400,000"
+          },
+          {
+            "label": "Income",
+            "value": "10,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "4,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Medical Store in the neighbourhood costing 400,000 and 30% down payment.",
+          "Your income will be 10,000 for 4,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "600,000"
+          },
+          {
+            "label": "Income",
+            "value": "15,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "7,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Medical Store in the neighbourhood costing 600,000 and 30% down payment.",
+          "Your income will be 15,000 for 7,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "700,000"
+          },
+          {
+            "label": "Income",
+            "value": "17,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "8,200"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Medical Store in the neighbourhood costing 700,000 and 30% down payment.",
+          "Your income will be 17,500 for 8,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "900,000"
+          },
+          {
+            "label": "Income",
+            "value": "22,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "10,500"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Medical Store in the neighbourhood costing 900,000 and 30% down payment.",
+          "Your income will be 22,500 for 10,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "25,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "11,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Medical Store in the neighbourhood costing 1,000,000 and 30% down payment.",
+          "Your income will be 25,000 for 11,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "30,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Medical Store in the neighbourhood costing 1,200,000 and 30% down payment.",
+          "Your income will be 30,000 for 14,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-grocery-store-in-the-locality",
+    "title": "a Grocery Store in the locality",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "30%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "6,300 ~ 9,400"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "240,000"
+          },
+          {
+            "label": "Income",
+            "value": "7,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "2,800"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Grocery Store in the locality costing 240,000 and 30% down payment.",
+          "Your income will be 7,500 for 2,800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "320,000"
+          },
+          {
+            "label": "Income",
+            "value": "10,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "3,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Grocery Store in the locality costing 320,000 and 30% down payment.",
+          "Your income will be 10,000 for 3,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "360,000"
+          },
+          {
+            "label": "Income",
+            "value": "11,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "4,200"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Grocery Store in the locality costing 360,000 and 30% down payment.",
+          "Your income will be 11,300 for 4,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "440,000"
+          },
+          {
+            "label": "Income",
+            "value": "13,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "5,100"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Grocery Store in the locality costing 440,000 and 30% down payment.",
+          "Your income will be 13,800 for 5,100 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "480,000"
+          },
+          {
+            "label": "Income",
+            "value": "15,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "5,600"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Grocery Store in the locality costing 480,000 and 30% down payment.",
+          "Your income will be 15,000 for 5,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "560,000"
+          },
+          {
+            "label": "Income",
+            "value": "17,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "6,500"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Grocery Store in the locality costing 560,000 and 30% down payment.",
+          "Your income will be 17,500 for 6,500 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-bakery-in-the-market-area",
+    "title": "a Bakery in the Market area",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "24,000 ~ 36,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "900,000"
+          },
+          {
+            "label": "Income",
+            "value": "30,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "12,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Bakery in the Market area costing 900,000 and 20% down payment.",
+          "Your income will be 30,000 for 12,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "40,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "16,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Bakery in the Market area costing 1,200,000 and 20% down payment.",
+          "Your income will be 40,000 for 16,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,350,000"
+          },
+          {
+            "label": "Income",
+            "value": "45,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "18,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Bakery in the Market area costing 1,350,000 and 20% down payment.",
+          "Your income will be 45,000 for 18,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,650,000"
+          },
+          {
+            "label": "Income",
+            "value": "55,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "22,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Bakery in the Market area costing 1,650,000 and 20% down payment.",
+          "Your income will be 55,000 for 22,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "60,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "24,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Bakery in the Market area costing 1,800,000 and 20% down payment.",
+          "Your income will be 60,000 for 24,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,100,000"
+          },
+          {
+            "label": "Income",
+            "value": "70,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "28,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Bakery in the Market area costing 2,100,000 and 20% down payment.",
+          "Your income will be 70,000 for 28,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-beauty-parlour-in-an-upcoming-complex",
+    "title": "a Beauty Parlour in an upcoming complex",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "9,300 ~ 14,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "600,000"
+          },
+          {
+            "label": "Income",
+            "value": "15,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "8,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Beauty Parlour in an upcoming complex costing 600,000 and 20% down payment.",
+          "Your income will be 15,000 for 8,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "800,000"
+          },
+          {
+            "label": "Income",
+            "value": "20,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "10,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Beauty Parlour in an upcoming complex costing 800,000 and 20% down payment.",
+          "Your income will be 20,000 for 10,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "900,000"
+          },
+          {
+            "label": "Income",
+            "value": "22,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "12,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Beauty Parlour in an upcoming complex costing 900,000 and 20% down payment.",
+          "Your income will be 22,500 for 12,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,100,000"
+          },
+          {
+            "label": "Income",
+            "value": "27,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Beauty Parlour in an upcoming complex costing 1,100,000 and 20% down payment.",
+          "Your income will be 27,500 for 14,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "30,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "16,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Beauty Parlour in an upcoming complex costing 1,200,000 and 20% down payment.",
+          "Your income will be 30,000 for 16,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "35,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "18,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a Beauty Parlour in an upcoming complex costing 1,400,000 and 20% down payment.",
+          "Your income will be 35,000 for 18,700 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-neighbourhood-restaurant",
+    "title": "a neighbourhood restaurant",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "40,000 ~ 60,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "45,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "15,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a neighbourhood restaurant costing 1,500,000 and 20% down payment.",
+          "Your income will be 45,000 for 15,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "60,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "20,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a neighbourhood restaurant costing 2,000,000 and 20% down payment.",
+          "Your income will be 60,000 for 20,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,300,000"
+          },
+          {
+            "label": "Income",
+            "value": "69,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "23,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a neighbourhood restaurant costing 2,300,000 and 20% down payment.",
+          "Your income will be 69,000 for 23,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "84,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "28,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a neighbourhood restaurant costing 2,800,000 and 20% down payment.",
+          "Your income will be 84,000 for 28,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "90,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "30,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a neighbourhood restaurant costing 3,000,000 and 20% down payment.",
+          "Your income will be 90,000 for 30,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "105,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "35,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a neighbourhood restaurant costing 3,500,000 and 20% down payment.",
+          "Your income will be 105,000 for 35,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-printing-press",
+    "title": "a printing press",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "25%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "20,900 ~ 32,300"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "800,000"
+          },
+          {
+            "label": "Income",
+            "value": "22,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "7,200"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a printing press costing 800,000 and 25% down payment.",
+          "Your income will be 22,400 for 7,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,100,000"
+          },
+          {
+            "label": "Income",
+            "value": "30,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "9,900"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a printing press costing 1,100,000 and 25% down payment.",
+          "Your income will be 30,800 for 9,900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,300,000"
+          },
+          {
+            "label": "Income",
+            "value": "36,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "11,700"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a printing press costing 1,300,000 and 25% down payment.",
+          "Your income will be 36,400 for 11,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "44,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,400"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a printing press costing 1,600,000 and 25% down payment.",
+          "Your income will be 44,800 for 14,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,700,000"
+          },
+          {
+            "label": "Income",
+            "value": "47,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "15,300"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a printing press costing 1,700,000 and 25% down payment.",
+          "Your income will be 47,600 for 15,300 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "56,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "18,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a printing press costing 2,000,000 and 25% down payment.",
+          "Your income will be 56,000 for 18,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-diagnostic-lab",
+    "title": "a diagnostic lab",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "42,000 ~ 64,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "50,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "20,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a diagnostic lab costing 2,000,000 and 20% down payment.",
+          "Your income will be 50,000 for 20,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "70,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "28,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a diagnostic lab costing 2,800,000 and 20% down payment.",
+          "Your income will be 70,000 for 28,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,100,000"
+          },
+          {
+            "label": "Income",
+            "value": "77,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "31,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a diagnostic lab costing 3,100,000 and 20% down payment.",
+          "Your income will be 77,500 for 31,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,900,000"
+          },
+          {
+            "label": "Income",
+            "value": "97,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "39,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a diagnostic lab costing 3,900,000 and 20% down payment.",
+          "Your income will be 97,500 for 39,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,300,000"
+          },
+          {
+            "label": "Income",
+            "value": "107,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "43,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a diagnostic lab costing 4,300,000 and 20% down payment.",
+          "Your income will be 107,500 for 43,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "5,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "125,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "50,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a diagnostic lab costing 5,000,000 and 20% down payment.",
+          "Your income will be 125,000 for 50,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-gym-in-a-commercial-complex",
+    "title": "a gym in a commercial complex",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "32,000 ~ 48,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "38,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,400"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a gym in a commercial complex costing 1,200,000 and 20% down payment.",
+          "Your income will be 38,400 for 14,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "51,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "19,200"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a gym in a commercial complex costing 1,600,000 and 20% down payment.",
+          "Your income will be 51,200 for 19,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "57,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "21,600"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a gym in a commercial complex costing 1,800,000 and 20% down payment.",
+          "Your income will be 57,600 for 21,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "70,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "26,400"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a gym in a commercial complex costing 2,200,000 and 20% down payment.",
+          "Your income will be 70,400 for 26,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "76,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "28,800"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a gym in a commercial complex costing 2,400,000 and 20% down payment.",
+          "Your income will be 76,800 for 28,800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "89,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "33,600"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a gym in a commercial complex costing 2,800,000 and 20% down payment.",
+          "Your income will be 89,600 for 33,600 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-coaching-institute",
+    "title": "a coaching institute",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "30%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "27,000 ~ 42,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "600,000"
+          },
+          {
+            "label": "Income",
+            "value": "24,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "6,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a coaching institute costing 600,000 and 30% down payment.",
+          "Your income will be 24,000 for 6,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "900,000"
+          },
+          {
+            "label": "Income",
+            "value": "36,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "9,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a coaching institute costing 900,000 and 30% down payment.",
+          "Your income will be 36,000 for 9,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "40,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "10,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a coaching institute costing 1,000,000 and 30% down payment.",
+          "Your income will be 40,000 for 10,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "48,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "12,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a coaching institute costing 1,200,000 and 30% down payment.",
+          "Your income will be 48,000 for 12,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "56,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a coaching institute costing 1,400,000 and 30% down payment.",
+          "Your income will be 56,000 for 14,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "64,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "16,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a coaching institute costing 1,600,000 and 30% down payment.",
+          "Your income will be 64,000 for 16,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-budget-hotel-on-the-highway",
+    "title": "a budget hotel on the highway",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "15%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "80,000 ~ 112,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "8,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "160,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "96,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a budget hotel on the highway costing 8,000,000 and 15% down payment.",
+          "Your income will be 160,000 for 96,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "10,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "200,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "120,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a budget hotel on the highway costing 10,000,000 and 15% down payment.",
+          "Your income will be 200,000 for 120,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "11,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "220,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "132,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a budget hotel on the highway costing 11,000,000 and 15% down payment.",
+          "Your income will be 220,000 for 132,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "13,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "260,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "156,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a budget hotel on the highway costing 13,000,000 and 15% down payment.",
+          "Your income will be 260,000 for 156,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "14,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "280,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "168,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a budget hotel on the highway costing 14,000,000 and 15% down payment.",
+          "Your income will be 280,000 for 168,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "16,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "320,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "192,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a budget hotel on the highway costing 16,000,000 and 15% down payment.",
+          "Your income will be 320,000 for 192,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-cold-storage-unit",
+    "title": "a cold storage unit",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "48,000 ~ 72,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "66,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "30,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a cold storage unit costing 3,000,000 and 20% down payment.",
+          "Your income will be 66,000 for 30,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "88,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "40,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a cold storage unit costing 4,000,000 and 20% down payment.",
+          "Your income will be 88,000 for 40,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "101,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "46,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a cold storage unit costing 4,600,000 and 20% down payment.",
+          "Your income will be 101,200 for 46,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "5,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "123,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "56,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a cold storage unit costing 5,600,000 and 20% down payment.",
+          "Your income will be 123,200 for 56,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "6,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "132,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "60,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a cold storage unit costing 6,000,000 and 20% down payment.",
+          "Your income will be 132,000 for 60,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "7,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "154,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "70,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a cold storage unit costing 7,000,000 and 20% down payment.",
+          "Your income will be 154,000 for 70,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-passenger-bus",
+    "title": "a passenger bus",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "57,500 ~ 80,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "70,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "24,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a passenger bus costing 2,000,000 and 20% down payment.",
+          "Your income will be 70,000 for 24,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "87,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "30,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a passenger bus costing 2,500,000 and 20% down payment.",
+          "Your income will be 87,500 for 30,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "98,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "33,600"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a passenger bus costing 2,800,000 and 20% down payment.",
+          "Your income will be 98,000 for 33,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,300,000"
+          },
+          {
+            "label": "Income",
+            "value": "115,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "39,600"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a passenger bus costing 3,300,000 and 20% down payment.",
+          "Your income will be 115,500 for 39,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "122,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "42,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a passenger bus costing 3,500,000 and 20% down payment.",
+          "Your income will be 122,500 for 42,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "140,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "48,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a passenger bus costing 4,000,000 and 20% down payment.",
+          "Your income will be 140,000 for 48,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-fishing-boat",
+    "title": "a fishing boat",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "25%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "36,000 ~ 54,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "900,000"
+          },
+          {
+            "label": "Income",
+            "value": "36,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "9,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a fishing boat costing 900,000 and 25% down payment.",
+          "Your income will be 36,000 for 9,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "48,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "12,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a fishing boat costing 1,200,000 and 25% down payment.",
+          "Your income will be 48,000 for 12,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "56,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a fishing boat costing 1,400,000 and 25% down payment.",
+          "Your income will be 56,000 for 14,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,700,000"
+          },
+          {
+            "label": "Income",
+            "value": "68,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "17,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a fishing boat costing 1,700,000 and 25% down payment.",
+          "Your income will be 68,000 for 17,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "72,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "18,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a fishing boat costing 1,800,000 and 25% down payment.",
+          "Your income will be 72,000 for 18,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,100,000"
+          },
+          {
+            "label": "Income",
+            "value": "84,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "21,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a fishing boat costing 2,100,000 and 25% down payment.",
+          "Your income will be 84,000 for 21,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-garment-workshop",
+    "title": "a garment workshop",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "25%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "28,000 ~ 42,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "30,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "10,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a garment workshop costing 1,000,000 and 25% down payment.",
+          "Your income will be 30,000 for 10,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "42,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a garment workshop costing 1,400,000 and 25% down payment.",
+          "Your income will be 42,000 for 14,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "48,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "16,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a garment workshop costing 1,600,000 and 25% down payment.",
+          "Your income will be 48,000 for 16,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,900,000"
+          },
+          {
+            "label": "Income",
+            "value": "57,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "19,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a garment workshop costing 1,900,000 and 25% down payment.",
+          "Your income will be 57,000 for 19,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,100,000"
+          },
+          {
+            "label": "Income",
+            "value": "63,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "21,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a garment workshop costing 2,100,000 and 25% down payment.",
+          "Your income will be 63,000 for 21,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "75,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "25,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a garment workshop costing 2,500,000 and 25% down payment.",
+          "Your income will be 75,000 for 25,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-petrol-pump-on-the-bypass",
+    "title": "a petrol pump on the bypass",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "15%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "133,000 ~ 185,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "15,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "270,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "165,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a petrol pump on the bypass costing 15,000,000 and 15% down payment.",
+          "Your income will be 270,000 for 165,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "19,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "342,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "209,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a petrol pump on the bypass costing 19,000,000 and 15% down payment.",
+          "Your income will be 342,000 for 209,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "20,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "369,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "225,500"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a petrol pump on the bypass costing 20,500,000 and 15% down payment.",
+          "Your income will be 369,000 for 225,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "24,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "441,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "269,500"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a petrol pump on the bypass costing 24,500,000 and 15% down payment.",
+          "Your income will be 441,000 for 269,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "26,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "477,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "291,500"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a petrol pump on the bypass costing 26,500,000 and 15% down payment.",
+          "Your income will be 477,000 for 291,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "30,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "540,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "330,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a petrol pump on the bypass costing 30,000,000 and 15% down payment.",
+          "Your income will be 540,000 for 330,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-single-screen-cinema",
+    "title": "a single-screen cinema",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "56,000 ~ 84,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "5,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "100,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "60,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a single-screen cinema costing 5,000,000 and 20% down payment.",
+          "Your income will be 100,000 for 60,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "7,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "140,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "84,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a single-screen cinema costing 7,000,000 and 20% down payment.",
+          "Your income will be 140,000 for 84,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "7,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "150,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "90,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a single-screen cinema costing 7,500,000 and 20% down payment.",
+          "Your income will be 150,000 for 90,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "9,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "190,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "114,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a single-screen cinema costing 9,500,000 and 20% down payment.",
+          "Your income will be 190,000 for 114,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "10,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "210,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "126,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a single-screen cinema costing 10,500,000 and 20% down payment.",
+          "Your income will be 210,000 for 126,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "12,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "240,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "144,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a single-screen cinema costing 12,000,000 and 20% down payment.",
+          "Your income will be 240,000 for 144,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-playschool-in-a-bungalow",
+    "title": "a playschool in a bungalow",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "30%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "35,000 ~ 52,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "700,000"
+          },
+          {
+            "label": "Income",
+            "value": "31,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "7,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a playschool in a bungalow costing 700,000 and 30% down payment.",
+          "Your income will be 31,500 for 7,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "45,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "10,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a playschool in a bungalow costing 1,000,000 and 30% down payment.",
+          "Your income will be 45,000 for 10,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,100,000"
+          },
+          {
+            "label": "Income",
+            "value": "49,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "11,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a playschool in a bungalow costing 1,100,000 and 30% down payment.",
+          "Your income will be 49,500 for 11,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "63,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "14,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a playschool in a bungalow costing 1,400,000 and 30% down payment.",
+          "Your income will be 63,000 for 14,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "67,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "15,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a playschool in a bungalow costing 1,500,000 and 30% down payment.",
+          "Your income will be 67,500 for 15,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "81,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "18,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a playschool in a bungalow costing 1,800,000 and 30% down payment.",
+          "Your income will be 81,000 for 18,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-dental-clinic-you-operate",
+    "title": "a dental clinic you operate",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "59,400 ~ 86,400"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "2,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "70,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "25,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dental clinic you operate costing 2,500,000 and 20% down payment.",
+          "Your income will be 70,000 for 25,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,300,000"
+          },
+          {
+            "label": "Income",
+            "value": "92,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "33,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dental clinic you operate costing 3,300,000 and 20% down payment.",
+          "Your income will be 92,400 for 33,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "100,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "36,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dental clinic you operate costing 3,600,000 and 20% down payment.",
+          "Your income will be 100,800 for 36,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "123,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "44,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dental clinic you operate costing 4,400,000 and 20% down payment.",
+          "Your income will be 123,200 for 44,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "134,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "48,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dental clinic you operate costing 4,800,000 and 20% down payment.",
+          "Your income will be 134,400 for 48,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "5,500,000"
+          },
+          {
+            "label": "Income",
+            "value": "154,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "55,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dental clinic you operate costing 5,500,000 and 20% down payment.",
+          "Your income will be 154,000 for 55,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-logistics-warehouse",
+    "title": "a logistics warehouse",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "57,200 ~ 85,800"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "80,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "36,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a logistics warehouse costing 4,000,000 and 20% down payment.",
+          "Your income will be 80,000 for 36,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "5,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "104,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "46,800"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a logistics warehouse costing 5,200,000 and 20% down payment.",
+          "Your income will be 104,000 for 46,800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "5,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "116,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "52,200"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a logistics warehouse costing 5,800,000 and 20% down payment.",
+          "Your income will be 116,000 for 52,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "7,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "144,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "64,800"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a logistics warehouse costing 7,200,000 and 20% down payment.",
+          "Your income will be 144,000 for 64,800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "7,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "156,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "70,200"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a logistics warehouse costing 7,800,000 and 20% down payment.",
+          "Your income will be 156,000 for 70,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "9,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "180,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "81,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a logistics warehouse costing 9,000,000 and 20% down payment.",
+          "Your income will be 180,000 for 81,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-dairy-collection-centre",
+    "title": "a dairy collection centre",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "30%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "20,300 ~ 32,400"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "500,000"
+          },
+          {
+            "label": "Income",
+            "value": "17,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "4,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dairy collection centre costing 500,000 and 30% down payment.",
+          "Your income will be 17,500 for 4,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "750,000"
+          },
+          {
+            "label": "Income",
+            "value": "26,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "6,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dairy collection centre costing 750,000 and 30% down payment.",
+          "Your income will be 26,300 for 6,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "850,000"
+          },
+          {
+            "label": "Income",
+            "value": "29,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "6,800"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dairy collection centre costing 850,000 and 30% down payment.",
+          "Your income will be 29,800 for 6,800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,050,000"
+          },
+          {
+            "label": "Income",
+            "value": "36,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "8,400"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dairy collection centre costing 1,050,000 and 30% down payment.",
+          "Your income will be 36,800 for 8,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "42,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "9,600"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dairy collection centre costing 1,200,000 and 30% down payment.",
+          "Your income will be 42,000 for 9,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "49,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "11,200"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a dairy collection centre costing 1,400,000 and 30% down payment.",
+          "Your income will be 49,000 for 11,200 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-an-excavator-for-hire",
+    "title": "an excavator for hire",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "20%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "70,400 ~ 99,200"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "3,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "108,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "50,400"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with an excavator for hire costing 3,600,000 and 20% down payment.",
+          "Your income will be 108,000 for 50,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,400,000"
+          },
+          {
+            "label": "Income",
+            "value": "132,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "61,600"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with an excavator for hire costing 4,400,000 and 20% down payment.",
+          "Your income will be 132,000 for 61,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "4,800,000"
+          },
+          {
+            "label": "Income",
+            "value": "144,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "67,200"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with an excavator for hire costing 4,800,000 and 20% down payment.",
+          "Your income will be 144,000 for 67,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "5,600,000"
+          },
+          {
+            "label": "Income",
+            "value": "168,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "78,400"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with an excavator for hire costing 5,600,000 and 20% down payment.",
+          "Your income will be 168,000 for 78,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "6,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "186,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "86,800"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with an excavator for hire costing 6,200,000 and 20% down payment.",
+          "Your income will be 186,000 for 86,800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "7,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "210,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "98,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with an excavator for hire costing 7,000,000 and 20% down payment.",
+          "Your income will be 210,000 for 98,000 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-a-small-software-studio",
+    "title": "a small software studio",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "40%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "45,000 ~ 75,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "400,000"
+          },
+          {
+            "label": "Income",
+            "value": "32,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "2,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a small software studio costing 400,000 and 40% down payment.",
+          "Your income will be 32,000 for 2,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "600,000"
+          },
+          {
+            "label": "Income",
+            "value": "48,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "3,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a small software studio costing 600,000 and 40% down payment.",
+          "Your income will be 48,000 for 3,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "700,000"
+          },
+          {
+            "label": "Income",
+            "value": "56,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "3,500"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a small software studio costing 700,000 and 40% down payment.",
+          "Your income will be 56,000 for 3,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "900,000"
+          },
+          {
+            "label": "Income",
+            "value": "72,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "4,500"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a small software studio costing 900,000 and 40% down payment.",
+          "Your income will be 72,000 for 4,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,000,000"
+          },
+          {
+            "label": "Income",
+            "value": "80,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "5,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a small software studio costing 1,000,000 and 40% down payment.",
+          "Your income will be 80,000 for 5,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "1,200,000"
+          },
+          {
+            "label": "Income",
+            "value": "96,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "6,000"
+          }
+        ],
+        "paragraphs": [
+          "Start your own business only if your salary income is 0, with a small software studio costing 1,200,000 and 40% down payment.",
+          "Your income will be 96,000 for 6,000 EMI expense."
+        ]
+      }
+    ]
+  }
+]

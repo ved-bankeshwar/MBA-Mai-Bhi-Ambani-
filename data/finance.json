@@ -1,0 +1,3290 @@
+[
+  {
+    "id": "finance-a-tea-stall-in-the-neighbourhood",
+    "title": "a Tea-stall in the neighbourhood",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "1,500 ~ 1,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "10,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Tea-stall in the neighbourhood costing 10,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "20,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Tea-stall in the neighbourhood costing 20,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "20,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Tea-stall in the neighbourhood costing 20,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "20,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Tea-stall in the neighbourhood costing 20,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "20,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Tea-stall in the neighbourhood costing 20,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "30,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Tea-stall in the neighbourhood costing 30,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,300 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-chat-stall-in-the-local-market",
+    "title": "a Chat-stall in the local market",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "2,000 ~ 3,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "30,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chat-stall in the local market costing 30,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "40,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chat-stall in the local market costing 40,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "50,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chat-stall in the local market costing 50,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "60,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chat-stall in the local market costing 60,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "60,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chat-stall in the local market costing 60,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "70,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chat-stall in the local market costing 70,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,500 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-chinese-dhabha",
+    "title": "a Chinese Dhabha",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "50%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "7,200 ~ 10,700"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "60,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "600"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chinese Dhabha costing 60,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,000 for 600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "80,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "8,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "800"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chinese Dhabha costing 80,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 8,000 for 800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "90,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "9,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chinese Dhabha costing 90,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 9,000 for 900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "110,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "11,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,200"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chinese Dhabha costing 110,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 11,000 for 1,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "120,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "12,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,300"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chinese Dhabha costing 120,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 12,000 for 1,300 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "140,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "14,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,500"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a Chinese Dhabha costing 140,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 14,000 for 1,500 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-an-auto-rickshaw",
+    "title": "an Auto-Rickshaw",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "40%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "3,100 ~ 4,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "100,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "800"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an Auto-Rickshaw costing 100,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,100 for 800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "130,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,000"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an Auto-Rickshaw costing 130,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,100 for 1,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "140,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,100"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an Auto-Rickshaw costing 140,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,400 for 1,100 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "180,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,400"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an Auto-Rickshaw costing 180,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,600 for 1,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "190,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,400"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an Auto-Rickshaw costing 190,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,900 for 1,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "220,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,700"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an Auto-Rickshaw costing 220,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,900 for 1,700 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-an-a-c-taxi",
+    "title": "an A/c Taxi",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "30%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "3,600 ~ 5,400"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "300,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "2,100"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an A/c Taxi costing 300,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,800 for 2,100 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "400,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "2,800"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an A/c Taxi costing 400,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,400 for 2,800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "450,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "3,200"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an A/c Taxi costing 450,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,200 for 3,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "550,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "8,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "3,900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an A/c Taxi costing 550,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 8,800 for 3,900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "600,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "9,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "4,200"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an A/c Taxi costing 600,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 9,600 for 4,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "700,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "11,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "4,900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an A/c Taxi costing 700,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 11,200 for 4,900 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-juice-stall-outside-the-school",
+    "title": "a juice stall outside the school",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "1,400 ~ 2,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "10,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a juice stall outside the school costing 10,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "18,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a juice stall outside the school costing 18,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,400 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "21,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a juice stall outside the school costing 21,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "29,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a juice stall outside the school costing 29,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,200 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "33,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a juice stall outside the school costing 33,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "40,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a juice stall outside the school costing 40,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,000 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-flower-stall-near-the-temple",
+    "title": "a flower stall near the temple",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "1,700 ~ 2,900"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "15,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a flower stall near the temple costing 15,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,100 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "24,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,700"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a flower stall near the temple costing 24,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,700 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "28,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a flower stall near the temple costing 28,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "37,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a flower stall near the temple costing 37,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "41,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a flower stall near the temple costing 41,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,900 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "50,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a flower stall near the temple costing 50,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,500 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-photocopy-shop-beside-the-college",
+    "title": "a photocopy shop beside the college",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "50%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "4,800 ~ 8,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "40,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "400"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a photocopy shop beside the college costing 40,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,600 for 400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "60,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "600"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a photocopy shop beside the college costing 60,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,400 for 600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "70,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "700"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a photocopy shop beside the college costing 70,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,300 for 700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "90,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "8,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a photocopy shop beside the college costing 90,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 8,100 for 900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "100,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "9,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,000"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a photocopy shop beside the college costing 100,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 9,000 for 1,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "120,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "10,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,200"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a photocopy shop beside the college costing 120,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 10,800 for 1,200 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-laundry-shop-in-the-lane",
+    "title": "a laundry shop in the lane",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "50%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "5,100 ~ 8,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "50,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "600"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a laundry shop in the lane costing 50,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,000 for 600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "75,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a laundry shop in the lane costing 75,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,000 for 900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "90,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,100"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a laundry shop in the lane costing 90,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,200 for 1,100 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "115,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "9,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,400"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a laundry shop in the lane costing 115,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 9,200 for 1,400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "125,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "10,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,500"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a laundry shop in the lane costing 125,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 10,000 for 1,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "150,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "12,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,800"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a laundry shop in the lane costing 150,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 12,000 for 1,800 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-tiffin-service-for-office-staff",
+    "title": "a tiffin service for office staff",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "3,600 ~ 6,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "30,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tiffin service for office staff costing 30,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,400 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "45,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tiffin service for office staff costing 45,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "55,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tiffin service for office staff costing 55,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,400 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "70,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tiffin service for office staff costing 70,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "75,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tiffin service for office staff costing 75,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "90,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tiffin service for office staff costing 90,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,200 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-cycle-repair-shed",
+    "title": "a cycle repair shed",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "1,000 ~ 1,700"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "8,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a cycle repair shed costing 8,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "12,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a cycle repair shed costing 12,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "14,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a cycle repair shed costing 14,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,100 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "19,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a cycle repair shed costing 19,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "21,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,700"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a cycle repair shed costing 21,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,700 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "25,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a cycle repair shed costing 25,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,000 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-newspaper-and-magazine-stand",
+    "title": "a newspaper and magazine stand",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "1,300 ~ 2,100"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "12,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a newspaper and magazine stand costing 12,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "18,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a newspaper and magazine stand costing 18,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,300 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "21,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a newspaper and magazine stand costing 21,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "27,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a newspaper and magazine stand costing 27,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,900 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "30,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a newspaper and magazine stand costing 30,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,100 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "36,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a newspaper and magazine stand costing 36,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,500 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-an-ice-cream-cart-in-the-park",
+    "title": "an ice-cream cart in the park",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "2,300 ~ 3,800"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "20,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an ice-cream cart in the park costing 20,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,500 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "30,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an ice-cream cart in the park costing 30,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,300 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "35,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an ice-cream cart in the park costing 35,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "45,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an ice-cream cart in the park costing 45,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,400 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "50,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an ice-cream cart in the park costing 50,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "60,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an ice-cream cart in the park costing 60,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,500 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-mobile-repair-counter",
+    "title": "a mobile repair counter",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "40%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "4,100 ~ 6,500"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "60,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "700"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a mobile repair counter costing 60,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,600 for 700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "85,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,000"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a mobile repair counter costing 85,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,100 for 1,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "100,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,200"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a mobile repair counter costing 100,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,000 for 1,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "125,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,500"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a mobile repair counter costing 125,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,500 for 1,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "135,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "8,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,600"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a mobile repair counter costing 135,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 8,100 for 1,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "160,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "9,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a mobile repair counter costing 160,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 9,600 for 1,900 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-tailor-shop-in-the-market",
+    "title": "a tailor shop in the market",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "2,800 ~ 4,600"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "25,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tailor shop in the market costing 25,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "40,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tailor shop in the market costing 40,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "45,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tailor shop in the market costing 45,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,200 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "60,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tailor shop in the market costing 60,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,200 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "65,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tailor shop in the market costing 65,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "80,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a tailor shop in the market costing 80,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,600 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-barber-shop-on-the-corner",
+    "title": "a barber shop on the corner",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "2,900 ~ 4,900"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "30,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a barber shop on the corner costing 30,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "45,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a barber shop on the corner costing 45,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,900 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "55,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a barber shop on the corner costing 55,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "70,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a barber shop on the corner costing 70,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "75,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a barber shop on the corner costing 75,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,900 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "90,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a barber shop on the corner costing 90,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,900 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-vegetable-cart-at-the-crossing",
+    "title": "a vegetable cart at the crossing",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "1,600 ~ 3,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "10,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a vegetable cart at the crossing costing 10,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 900 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "18,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a vegetable cart at the crossing costing 18,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "21,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a vegetable cart at the crossing costing 21,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,900 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "29,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a vegetable cart at the crossing costing 29,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "33,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a vegetable cart at the crossing costing 33,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "40,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a vegetable cart at the crossing costing 40,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,600 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-milk-booth-in-the-society",
+    "title": "a milk booth in the society",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "50%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "3,500 ~ 5,300"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "40,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "300"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a milk booth in the society costing 40,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,800 for 300 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "55,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,900"
+          },
+          {
+            "label": "EMI expense",
+            "value": "400"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a milk booth in the society costing 55,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,900 for 400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "65,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "500"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a milk booth in the society costing 65,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,600 for 500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "80,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "600"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a milk booth in the society costing 80,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,600 for 600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "85,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "700"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a milk booth in the society costing 85,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,000 for 700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "100,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "800"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a milk booth in the society costing 100,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,000 for 800 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-snack-counter-at-the-bus-stand",
+    "title": "a snack counter at the bus stand",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "50%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "4,100 ~ 6,800"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "35,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "400"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a snack counter at the bus stand costing 35,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,000 for 400 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "55,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,700"
+          },
+          {
+            "label": "EMI expense",
+            "value": "600"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a snack counter at the bus stand costing 55,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,700 for 600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "65,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "700"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a snack counter at the bus stand costing 65,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,500 for 700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "80,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "800"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a snack counter at the bus stand costing 80,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,800 for 800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "90,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,700"
+          },
+          {
+            "label": "EMI expense",
+            "value": "900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a snack counter at the bus stand costing 90,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,700 for 900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "110,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "9,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,100"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a snack counter at the bus stand costing 110,000 with 50% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 9,400 for 1,100 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-courier-pickup-point",
+    "title": "a courier pickup point",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "40%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "3,700 ~ 6,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "50,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "500"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a courier pickup point costing 50,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,000 for 500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "75,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "800"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a courier pickup point costing 75,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,500 for 800 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "85,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a courier pickup point costing 85,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,100 for 900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "105,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,100"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a courier pickup point costing 105,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,300 for 1,100 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "120,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,200"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a courier pickup point costing 120,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,200 for 1,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "140,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "8,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,400"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a courier pickup point costing 140,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 8,400 for 1,400 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-an-internet-cafe-near-the-hostel",
+    "title": "an internet cafe near the hostel",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "40%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "4,800 ~ 7,400"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "80,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,000"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an internet cafe near the hostel costing 80,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,400 for 1,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "110,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,300"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an internet cafe near the hostel costing 110,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,100 for 1,300 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "130,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,600"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an internet cafe near the hostel costing 130,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,200 for 1,600 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "160,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "8,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an internet cafe near the hostel costing 160,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 8,800 for 1,900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "170,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "9,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "2,000"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an internet cafe near the hostel costing 170,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 9,400 for 2,000 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "200,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "11,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "2,400"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing an internet cafe near the hostel costing 200,000 with 40% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 11,000 for 2,400 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-pottery-stall-at-the-craft-market",
+    "title": "a pottery stall at the craft market",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "1,600 ~ 2,700"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "15,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,100"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pottery stall at the craft market costing 15,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,100 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "23,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pottery stall at the craft market costing 23,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "26,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pottery stall at the craft market costing 26,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "34,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,400"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pottery stall at the craft market costing 34,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,400 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "38,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,700"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pottery stall at the craft market costing 38,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,700 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "45,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pottery stall at the craft market costing 45,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,200 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-pan-and-cold-drink-stall",
+    "title": "a pan and cold-drink stall",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "100%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "2,800 ~ 4,800"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "20,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "1,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pan and cold-drink stall costing 20,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 1,600 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "35,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "2,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pan and cold-drink stall costing 35,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 2,800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "40,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "3,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pan and cold-drink stall costing 40,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 3,200 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "50,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,000"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pan and cold-drink stall costing 50,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,000 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "60,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,800"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pan and cold-drink stall costing 60,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,800 for 0 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "70,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "5,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "0"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a pan and cold-drink stall costing 70,000 with 100% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 5,600 for 0 EMI expense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "finance-a-two-wheeler-rental-desk",
+    "title": "a two-wheeler rental desk",
+    "fields": [
+      {
+        "label": "Down payment",
+        "value": "30%"
+      },
+      {
+        "label": "Historic net income",
+        "value": "4,600 ~ 7,000"
+      }
+    ],
+    "paragraphs": [],
+    "rolls": [
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "100,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "4,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,200"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a two-wheeler rental desk costing 100,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 4,500 for 1,200 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "140,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "6,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,700"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a two-wheeler rental desk costing 140,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 6,300 for 1,700 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "160,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "7,200"
+          },
+          {
+            "label": "EMI expense",
+            "value": "1,900"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a two-wheeler rental desk costing 160,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 7,200 for 1,900 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "190,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "8,600"
+          },
+          {
+            "label": "EMI expense",
+            "value": "2,300"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a two-wheeler rental desk costing 190,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 8,600 for 2,300 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "210,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "9,500"
+          },
+          {
+            "label": "EMI expense",
+            "value": "2,500"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a two-wheeler rental desk costing 210,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 9,500 for 2,500 EMI expense."
+        ]
+      },
+      {
+        "fields": [
+          {
+            "label": "Cost",
+            "value": "250,000"
+          },
+          {
+            "label": "Your share of income",
+            "value": "11,300"
+          },
+          {
+            "label": "EMI expense",
+            "value": "3,000"
+          }
+        ],
+        "paragraphs": [
+          "Help your friend start their own business by financing a two-wheeler rental desk costing 250,000 with 30% down payment. Your friend promises to share income 50/50.",
+          "Your share of income will be 11,300 for 3,000 EMI expense."
+        ]
+      }
+    ]
+  }
+]
